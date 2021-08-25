@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-BVK266/BVK266 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BVK266/Vamshi-Krishna-Bandari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
